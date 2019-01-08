@@ -5,8 +5,8 @@ This repository contains the full stack Music Haven application.
 ## Contacts
 
 Brandon Foley - 
-Phone Number -
-Email
+(845)475-2781 -
+brendanfoley1214@gmail.com
 
 Nicholas Barranco - 
 (917)853-9292 -
